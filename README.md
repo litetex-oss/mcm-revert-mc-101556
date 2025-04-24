@@ -2,7 +2,6 @@
 
 [![Version](https://img.shields.io/modrinth/v/mcm-revert-mc-101556)](https://modrinth.com/mod/mcm-revert-mc-101556)
 [![Build](https://img.shields.io/github/actions/workflow/status/litetex-oss/mcm-revert-mc-101556/check-build.yml?branch=dev)](https://github.com/litetex-oss/mcm-revert-mc-101556/actions/workflows/check-build.yml?query=branch%3Adev)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=litetex-oss_mcm-revert-mc-101556&metric=alert_status)](https://sonarcloud.io/dashboard?id=litetex-oss_mcm-revert-mc-101556)
 
 # Revert MC-101556
 
