@@ -16,9 +16,9 @@
   "icon": "assets/icon.png",
   "environment": "*",
   "mixins": [
-    "template-placeholder.mixins.json"
+    "r101556.mixins.json"
   ],
-  "accessWidener": "template-placeholder.accesswidener",
+  "accessWidener": "r101556.accesswidener",
   "recommends": {
     "fabricloader": ">=${loader_version}",
     "minecraft": ">=${minecraft_version}"
