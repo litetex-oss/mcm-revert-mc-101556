@@ -7,7 +7,7 @@
 
 <!-- modrinth_exclude.end -->
 
-Reverts the "fix" for [MC-101556](https://bugs.mojang.com/browse/MC/issues/MC-101556) (affects ``1.21.5`` only).
+Reverts the "fix" for [MC-101556](https://bugs.mojang.com/browse/MC/issues/MC-101556) (only affects ``1.21.5``).
 
 Makes nether portals work properly again.
 
