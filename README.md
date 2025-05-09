@@ -1,6 +1,6 @@
 <!-- modrinth_exclude.start -->
 
-[![Version](https://img.shields.io/modrinth/v/AfFOiyXv)](https://modrinth.com/mod/mcm-revert-mc-101556)
+[![Version](https://img.shields.io/modrinth/v/AfFOiyXv)](https://modrinth.com/mod/revert-mc-101556)
 [![Build](https://img.shields.io/github/actions/workflow/status/litetex-oss/mcm-revert-mc-101556/check-build.yml?branch=dev)](https://github.com/litetex-oss/mcm-revert-mc-101556/actions/workflows/check-build.yml?query=branch%3Adev)
 
 # Revert MC-101556
@@ -9,7 +9,7 @@
 
 Reverts the "fix" for [MC-101556](https://bugs.mojang.com/browse/MC/issues/MC-101556) (only affects ``1.21.5``).
 
-Makes nether portals work properly again.
+Makes nether portals/chunk loaders work properly again.
 
 Please note that the "fix" for MC-101556 was reverted by Mojang in ``25w16a`` (``1.21.6``) and the mod is no longer required in these versions.
 
